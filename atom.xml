@@ -383,10 +383,10 @@
     <link href="http://yoursite.com/2016/11/25/react-router-4-0-0-api-Match/"/>
     <id>http://yoursite.com/2016/11/25/react-router-4-0-0-api-Match/</id>
     <published>2016-11-25T05:05:50.000Z</published>
-    <updated>2017-05-25T09:14:03.763Z</updated>
+    <updated>2017-05-25T09:23:45.984Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://react-router.now.sh/Match" target="_blank" rel="external">原文链接</a></p>
-<font size="6em">&lt;Match&gt;</font>
+<font size="1em">&lt;Match&gt;</font>
 
 <p>匹配到地址(location)时进行UI渲染</p>
 <h3 id="pattern-string"><a href="#pattern-string" class="headerlink" title="pattern: string"></a><font color="red">pattern: string</font></h3><p>任何<a href="https://www.npmjs.com/package/path-to-regexp" target="_blank" rel="external">path-to-regexp</a>可以理解的URL模式表达式<br><figure class="highlight html"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">Match</span> <span class="attr">pattern</span>=<span class="string">"/users/:id"</span> <span class="attr">component</span>=<span class="string">&#123;User&#125;/</span>&gt;</span></div></pre></td></tr></table></figure></p>
@@ -440,7 +440,7 @@
     <summary type="html">
     
       &lt;p&gt;&lt;a href=&quot;https://react-router.now.sh/Match&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;原文链接&lt;/a&gt;&lt;/p&gt;
-&lt;font size=&quot;6em&quot;&gt;&amp;lt;Match&amp;gt;&lt;/font&gt;
+&lt;font size=&quot;1em&quot;&gt;&amp;lt;Match&amp;gt;&lt;/font&gt;
 
 &lt;p&gt;匹配到地址(location)时进行UI渲染&lt;/p&gt;
 &lt;h3 id=&quot;pattern-string&quot;&gt;&lt;a href=&quot;#pattern-string&quot; class=&quot;headerlink&quot; title=&quot;pattern: string&quot;&gt;&lt;/a&gt;&lt;font color=&quot;red&quot;&gt;pattern: string&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;任何&lt;a href=&quot;https://www.npmjs.com/package/path-to-regexp&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;path-to-regexp&lt;/a&gt;可以理解的URL模式表达式&lt;br&gt;&lt;figure class=&quot;highlight html&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;name&quot;&gt;Match&lt;/span&gt; &lt;span class=&quot;attr&quot;&gt;pattern&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&quot;/users/:id&quot;&lt;/span&gt; &lt;span class=&quot;attr&quot;&gt;component&lt;/span&gt;=&lt;span class=&quot;string&quot;&gt;&amp;#123;User&amp;#125;/&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;/p&gt;
